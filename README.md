@@ -1,2 +1,2 @@
 # JobFii
-A simple finding job app
+A simple finding job app.
